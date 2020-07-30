@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+aside ul.ingredients-list {
+    list-style: square inside;
+}
+
+header img {
+    width: 100px;
+}
+
+ul > li > a {
+    text-decoration: none;
+    color: inherit;
+}
+
+section div.user_review {
+    background-color: lightgray;
+    color: black;
+
+}
